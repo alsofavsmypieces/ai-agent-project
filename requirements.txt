@@ -1,0 +1,18 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Web framework (for server.py)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# Data fetching
+requests>=2.31.0
+tavily-python>=0.3.0
+
+# CLI interface
+rich>=13.7.0
+
+# Utilities
+python-dateutil>=2.8.2
