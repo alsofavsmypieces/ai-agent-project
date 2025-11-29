@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyTradingBot
 
 A multi-agent financial analysis system for stock trading insights.
