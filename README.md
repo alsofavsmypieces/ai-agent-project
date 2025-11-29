@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyTradingBot
 
 A multi-agent financial analysis system for stock trading insights.
@@ -45,3 +46,7 @@ The bot analyzes stocks using multiple specialized agents to provide comprehensi
 ## License
 
 MIT
+=======
+# Bangkok-Condo-Price-Analysis
+Scraping &amp; analyzing Bangkok condo rental listings with Python. Includes price trend analysis, location mapping, and data visualizations.
+>>>>>>> f3ed711fdfca458f9d3dd94bf3faef8ff51c3aa1
